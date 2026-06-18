@@ -24,5 +24,3 @@ This project uses Machine Learning to classify Iris flowers into three species:
 
 * 100%
 
-Khyati Jha
-
